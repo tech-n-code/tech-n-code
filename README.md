@@ -1,6 +1,6 @@
 ### Hi there, I'm Will 👋
 
-I'm currently wokring on improving my skills in:
+I'm currently working on improving my skills in:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=black)
@@ -11,7 +11,10 @@ I'm currently wokring on improving my skills in:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=black)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat&logo=Node.js&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+Connect with me here: 
+  [![Linkedin Badge](https://img.shields.io/badge/-Will%20Franceschini-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-franceschini/)](https://www.linkedin.com/in/will-franceschini/)
 
 <!--
 **tech-n-code/tech-n-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
