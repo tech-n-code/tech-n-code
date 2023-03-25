@@ -10,7 +10,8 @@ I'm currently working on improving my skills in:
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=black)](https://git-scm.com/)
-  [![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat&logo=Node.js&logoColor=black)](https://nodejs.org/)
+  [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=black)](https://nodejs.org/)
+  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
 
 Connect with me here:
