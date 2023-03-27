@@ -18,7 +18,7 @@ I'm currently working on improving my skills in:
 Tech-related Hobbies:
 
   [![3D Printing](https://img.shields.io/badge/-3D%20Printing-brightgreen?style=flat&logoColor=black)](https://en.wikipedia.org/wiki/3D_printing/)
-  [![Ender-5 Pro](https://img.shields.io/badge/-Ender-5%20Pro-B46F04?style=flat&logoColor=white)](https://creality.com/)
+  [![Ender-5 Pro](https://img.shields.io/badge/-Ender%205%20Pro-B46F04?style=flat&logoColor=white)](https://creality.com/)
   [![Marlin](https://img.shields.io/badge/-Marlin-yellow?style=flat&logoColor=blue)](https://marlinfw.org/)
   [![FreeCAD](https://img.shields.io/badge/-FreeCAD-red?style=flat&logoColor=white)](https://freecad.org/)
   [![SuperSlicer](https://img.shields.io/badge/-SuperSlicer-C27604?style=flat&logoColor=black)](https://github.com/supermerill/SuperSlicer/)
