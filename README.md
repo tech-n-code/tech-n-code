@@ -17,11 +17,11 @@ I'm currently working on improving my skills in:
 
 Tech-related Hobbies:
 
-  [![3D Printing](https://img.shields.io/badge/-3D%20Printing-brightgreen?style=flat&logoColor=black)](https://en.wikipedia.org/wiki/3D_printing/)
-  [![Ender-5 Pro](https://img.shields.io/badge/-Ender%205%20Pro-b46f04?style=flat&logoColor=white)](https://creality.com/)
-  [![Marlin](https://img.shields.io/badge/-Marlin-e6cba0?style=flat&logoColor=blue)](https://marlinfw.org/)
-  [![FreeCAD](https://img.shields.io/badge/-FreeCAD-f8f1e8?style=flat&logoColor=white)](https://freecad.org/)
-  [![SuperSlicer](https://img.shields.io/badge/-SuperSlicer-c27604?style=flat&logoColor=black)](https://github.com/supermerill/SuperSlicer/)
+  [![3D Printing](https://img.shields.io/badge/3D%20Printing-brightgreen)](https://en.wikipedia.org/wiki/3D_printing/)
+  [![Ender-5 Pro](https://img.shields.io/badge/Ender%205%20Pro-grey)](https://creality.com/)
+  [![Marlin](https://img.shields.io/badge/Marlin-FFFF00)](https://marlinfw.org/)
+  [![FreeCAD](https://img.shields.io/badge/FreeCAD-0000FF)](https://freecad.org/)
+  [![SuperSlicer](https://img.shields.io/badge/SuperSlicer-1E90FF)](https://github.com/supermerill/SuperSlicer/)
   [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-a22846?style=flat&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org/)
   [![OctoPrint](https://img.shields.io/badge/-OctoPrint-13c100?style=flat&logo=octoprint&logoColor=black)](https://octoprint.org/)
   [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082c9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
