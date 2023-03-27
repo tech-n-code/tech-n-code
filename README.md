@@ -18,14 +18,14 @@ I'm currently working on improving my skills in:
 Tech-related Hobbies:
 
   [![3D Printing](https://img.shields.io/badge/-3D%20Printing-brightgreen?style=flat&logoColor=black)](https://en.wikipedia.org/wiki/3D_printing/)
-  [![Ender-5 Pro](https://img.shields.io/badge/-Ender%205%20Pro-B46F04?style=flat&logoColor=white)](https://creality.com/)
-  [![Marlin](https://img.shields.io/badge/-Marlin-yellow?style=flat&logoColor=blue)](https://marlinfw.org/)
-  [![FreeCAD](https://img.shields.io/badge/-FreeCAD-red?style=flat&logoColor=white)](https://freecad.org/)
-  [![SuperSlicer](https://img.shields.io/badge/-SuperSlicer-C27604?style=flat&logoColor=black)](https://github.com/supermerill/SuperSlicer/)
-  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org/)
-  [![OctoPrint](https://img.shields.io/badge/-OctoPrint-13C100?style=flat&logo=octoprint&logoColor=black)](https://octoprint.org/)
-  [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
-  [![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=black)](https://home-assistant.io/)
+  [![Ender-5 Pro](https://img.shields.io/badge/-Ender%205%20Pro-b46f04?style=flat&logoColor=white)](https://creality.com/)
+  [![Marlin](https://img.shields.io/badge/-Marlin-e6cba0?style=flat&logoColor=blue)](https://marlinfw.org/)
+  [![FreeCAD](https://img.shields.io/badge/-FreeCAD-f8f1e8?style=flat&logoColor=white)](https://freecad.org/)
+  [![SuperSlicer](https://img.shields.io/badge/-SuperSlicer-c27604?style=flat&logoColor=black)](https://github.com/supermerill/SuperSlicer/)
+  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-a22846?style=flat&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org/)
+  [![OctoPrint](https://img.shields.io/badge/-OctoPrint-13c100?style=flat&logo=octoprint&logoColor=black)](https://octoprint.org/)
+  [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082c9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
+  [![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat&logo=home-assistant&logoColor=black)](https://home-assistant.io/)
   [![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=black)](https://openwrt.org/)
 
 Connect with me here:
