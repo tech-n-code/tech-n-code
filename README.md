@@ -1,4 +1,6 @@
-### Hi there, I'm Will 👋
+### Hi there, my name is Will Franceschini 👋
+
+I am a passionate full-stack software engineer going through Galvanize's 18-week coding bootcamp unitl July '23. I love all-things-tech and would love to colalborate in the areas of data visualization, data science, or perhaps AI!
 
 I'm currently working on improving my skills in:
 
