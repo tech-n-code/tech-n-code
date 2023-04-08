@@ -18,6 +18,12 @@ I'm currently working on improving my skills in:
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=black)](https://git-scm.com/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
 
+Galvanize Bootcamp Projects:
+
+[Beverage Concierge](https://tech-n-code.github.io/beverage-concierge/)
+[Pixel Art Maker](https://tech-n-code.github.io/pixel-art-maker/)
+[Stop Light Events](https://tech-n-code.github.io/stoplight-event-exercise/)
+
 Tech-related Hobbies:
 
   [![3D Printing](https://img.shields.io/badge/3D%20Printing-brightgreen)](https://en.wikipedia.org/wiki/3D_printing/)
