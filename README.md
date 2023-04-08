@@ -20,9 +20,9 @@ I'm currently working on improving my skills in:
 
 Galvanize Bootcamp Projects:
 
-[Beverage Concierge](https://tech-n-code.github.io/beverage-concierge/)
-[Pixel Art Maker](https://tech-n-code.github.io/pixel-art-maker/)
-[Stop Light Events](https://tech-n-code.github.io/stoplight-event-exercise/)
+- [Beverage Concierge](https://tech-n-code.github.io/beverage-concierge/)
+- [Pixel Art Maker](https://tech-n-code.github.io/pixel-art-maker/)
+- [Stop Light Events](https://tech-n-code.github.io/stoplight-event-exercise/)
 
 Tech-related Hobbies:
 
