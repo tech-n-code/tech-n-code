@@ -14,7 +14,8 @@ I'm currently working on improving my skills in:
   [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=black)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
-  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)](https:///www.docker.com/)
+  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)](https://www.docker.com/)
+  [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=docker&logoColor=black)](https://vitejs.dev/)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=black)](https://git-scm.com/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
 
