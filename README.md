@@ -17,7 +17,7 @@ I'm currently working on improving my skills in:
   [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=black)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
-  [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)  
+  [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)
   [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)](https://www.docker.com/)
   [![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=black)](https://www.portainer.io/)
   
