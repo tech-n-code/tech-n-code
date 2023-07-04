@@ -24,7 +24,7 @@ I am a passionate junior full-stack software engineer, graduate of Galvanize's 1
 
 #### Dev Environment
 
-[![K6](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=nginx&logoColor=white)](https://k6.io/)
+[![K6](https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white)](https://k6.io/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=F6DC40)](https://vitejs.dev/)
 [![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=F6DC40)](https://vitest.dev/)
 [![Cypress](https://img.shields.io/badge/Cypress-41b883)](https://github.com/cypress-io/cypress)
