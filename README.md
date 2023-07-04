@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Will Franceschini.
+## Hi there 👋 My name is Will Franceschini.
 
 I am a passionate junior full-stack software engineer, graduate of Galvanize's 18-week coding bootcamp. I love all-things-tech and would be interested in collaborating in the areas of data visualization, data science, and perhaps AI!
 
@@ -44,14 +44,14 @@ I am a passionate junior full-stack software engineer, graduate of Galvanize's 1
 [![Concurrently](https://img.shields.io/badge/Concurrently-F7DF1E)](https://github.com/open-cli-tools/concurrently)
 [![Cleave.js](https://img.shields.io/badge/Cleave.js-708090)](https://nosir.github.io/cleave.js/)
 
-#### I also used and recommend the following services:
+#### I also use and recommend the following services:
 
 [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)
 [![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)](https://render.com/)
 
 Galvanize Bootcamp Projects:
 - [Blue Ocean workplace simulator](https://github.com/tech-n-code/hacking-transitions-20)
-- [System Design Capstone (SDC) project](https://github.com/tech-n-code/chairbnBeyond)
+- [System Design Capstone (SDC)](https://github.com/tech-n-code/chairbnBeyond)
 - [Hopcamp front-end group project (Hipcamp.com clone)](https://github.com/tech-n-code/HopCamp)
 - [Army Combat Fitness Test (ACFT) Tracker](https://github.com/tech-n-code/mvp-fitness-tracker)
 - [Beverage Concierge](https://tech-n-code.github.io/beverage-concierge/)
