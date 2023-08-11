@@ -49,7 +49,7 @@ I am a passionate full-stack software engineer, graduate of Galvanize's 18-week 
 [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)
 [![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)](https://render.com/)
 
-Galvanize Bootcamp Projects:
+Recent Projects:
 - [Blue Ocean workplace simulator](https://github.com/tech-n-code/hacking-transitions-20)
 - [System Design Capstone (SDC)](https://github.com/tech-n-code/chairbnBeyond)
 - [Hopcamp front-end group project (Hipcamp.com clone)](https://github.com/tech-n-code/HopCamp)
