@@ -44,7 +44,7 @@ I am a junior full-stack software developer with a CS undergraduate degree, post
 [![Concurrently](https://img.shields.io/badge/Concurrently-F7DF1E)](https://github.com/open-cli-tools/concurrently)
 [![Cleave.js](https://img.shields.io/badge/Cleave.js-708090)](https://nosir.github.io/cleave.js/)
 
-#### I also use and recommend the following services:
+#### Same with these services:
 
 [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)
 [![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)](https://render.com/)
