@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Will Franceschini.
 
-I am a junior full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, active CISSP certification, and recently retired Military Intelligence Army Officer. Passionate about intuitive tools for data analytics, visualization, and smart decision-making.
+I am a full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, active CISSP certification, and recently retired Military Intelligence Army Officer. Passionate about intuitive tools for data analytics, visualization, and smart decision-making.
 
 ## Tech Stack
 
