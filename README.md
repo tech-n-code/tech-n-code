@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is Will Franceschini.
 
-I am a passionate full-stack software engineer, graduate of Galvanize's 18-week coding bootcamp. I love all-things-tech and would be interested in collaborating in the areas of data visualization, data science, and perhaps AI!
+I am a junior full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, active CISSP certification, and recently retired Military Intelligence Army Officer. Passionate about intuitive tools for data analytics, visualization, and smart decision-making.
 
-## I'm always working on improving my skills in...
+## Tech Stack
 
 #### Front-end
 
