@@ -1,23 +1,27 @@
 ## Hi there 👋 My name is Will Franceschini.
 
-I am a full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, active CISSP certification, and recently retired Military Intelligence Army Officer. Passionate about intuitive tools for data analytics, visualization, and smart decision-making.
+I am a full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, and active CISSP and AWS CCP certifications. Passionate about creating intuitive UI/UX for data visualization and informed decision-making.
 
 ## Tech Stack
 
 #### Front-end
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)](https://jquery.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 
 #### Back-end
 
+[![Java](https://img.shields.io/badge/Java-2E69A4)](https://java.com)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=black)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=black)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)](https://www.docker.com/)
 [![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=black)](https://www.portainer.io/)
@@ -59,16 +63,20 @@ Recent Projects:
 
 Tech-related Hobbies:
 
+[![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=black)](https://proxmox.com/)
+[![Plex](https://img.shields.io/badge/-Plex-EBAF00?style=flat&logo=plex&logoColor=black)](https://plex.tv/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-a22846?style=flat&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org/)
+[![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082c9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
+[![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat&logo=home-assistant&logoColor=black)](https://home-assistant.io/)
+[![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)](https://wireguard.com/)
+[![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=black)](https://openwrt.org/)
+
 [![3D Printing](https://img.shields.io/badge/3D%20Printing-brightgreen)](https://en.wikipedia.org/wiki/3D_printing/)
 [![Ender-5 Pro](https://img.shields.io/badge/Ender%205%20Pro-grey)](https://creality.com/)
 [![Marlin Firmware](https://img.shields.io/badge/Marlin%20Firmware-FFFF00)](https://marlinfw.org/)
+[![OctoPrint](https://img.shields.io/badge/-OctoPrint-13c100?style=flat&logo=octoprint&logoColor=black)](https://octoprint.org/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-DC143C)](https://freecad.org/)
 [![SuperSlicer](https://img.shields.io/badge/SuperSlicer-4169E1)](https://github.com/supermerill/SuperSlicer/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-a22846?style=flat&logo=raspberry-pi&logoColor=white)](https://raspberrypi.org/)
-[![OctoPrint](https://img.shields.io/badge/-OctoPrint-13c100?style=flat&logo=octoprint&logoColor=black)](https://octoprint.org/)
-[![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082c9?style=flat&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
-[![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat&logo=home-assistant&logoColor=black)](https://home-assistant.io/)
-[![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=black)](https://openwrt.org/)
 
 Connect with me here:
 
