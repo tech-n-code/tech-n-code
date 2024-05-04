@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Will Franceschini.
 
-I am a full-stack software developer with a CS undergraduate degree, post-graduate degrees in Science & Technology Intelligence and Information Technology Management, an active TS/SCI clearance, and active CISSP and AWS CCP certifications. Passionate about creating intuitive UI/UX for data visualization and informed decision-making.
+I am a full-stack software developer, passionate about tech and creating intuitive UI/UX for data visualization and informed decision-making.
 
 ## Tech Stack
 
